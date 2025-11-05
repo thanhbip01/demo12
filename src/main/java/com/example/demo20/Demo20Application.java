@@ -10,3 +10,9 @@ public class Demo20Application {
 		SpringApplication.run(Demo20Application.class, args);
 	}
 }
+//@SpringBootApplication
+//public class CoffeeApplication {
+//    public static void main(String[] args) {
+//        SpringApplication.run(CoffeeApplication.class, args);
+//    }
+//}
